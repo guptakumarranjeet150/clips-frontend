@@ -32,7 +32,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-.env*
 
 # vercel
 .vercel
@@ -56,3 +55,4 @@ storybook-static
 # means a duplicate of every file in the repo — enough to make `git status`
 # unreadable and to trip jest's haste-map collision check on each run.
 .kilo/
+config.bat
